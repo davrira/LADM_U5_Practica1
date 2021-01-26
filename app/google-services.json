@@ -1,0 +1,107 @@
+{
+  "project_info": {
+    "project_number": "696930074328",
+    "firebase_url": "https://ladmu3-59398.firebaseio.com",
+    "project_id": "ladmu3-59398",
+    "storage_bucket": "ladmu3-59398.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:696930074328:android:222e8a5f373d8da0c921ad",
+        "android_client_info": {
+          "package_name": "mx.tecnm.proyectopivote"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "696930074328-rpb28kn6m8ohrn5dvfpa2cj4dc1eonu1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDchmEotW9uBItG2SUjdxKoAWUuEM6fayc"
+        },
+        {
+          "current_key": "AIzaSyCyAvGDy3GD8YcBvqQr6-K_LDSQzvRJIbI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "696930074328-rpb28kn6m8ohrn5dvfpa2cj4dc1eonu1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:696930074328:android:70676b635f840749c921ad",
+        "android_client_info": {
+          "package_name": "mx.tecnm.tepic.ladm_u5_practica1_drivera"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "696930074328-rpb28kn6m8ohrn5dvfpa2cj4dc1eonu1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDchmEotW9uBItG2SUjdxKoAWUuEM6fayc"
+        },
+        {
+          "current_key": "AIzaSyCyAvGDy3GD8YcBvqQr6-K_LDSQzvRJIbI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "696930074328-rpb28kn6m8ohrn5dvfpa2cj4dc1eonu1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:696930074328:android:e2db1d0514792a16c921ad",
+        "android_client_info": {
+          "package_name": "mx.tecnm.tepic.ladm_u5_practica_drivera"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "696930074328-rpb28kn6m8ohrn5dvfpa2cj4dc1eonu1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDchmEotW9uBItG2SUjdxKoAWUuEM6fayc"
+        },
+        {
+          "current_key": "AIzaSyCyAvGDy3GD8YcBvqQr6-K_LDSQzvRJIbI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "696930074328-rpb28kn6m8ohrn5dvfpa2cj4dc1eonu1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
